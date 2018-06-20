@@ -109,7 +109,7 @@
     <repositories>
                 <repository>
                         <id>github-repo-releases</id>
-                        <url>https://raw.github.com/man4j/jaxb-facets/maven</url>
+                        <url>https://raw.github.com/whummer/jaxb-facets/master/releases</url>
                 </repository>
             <repository>
                 <id>infosys-repo-releases</id>
